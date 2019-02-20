@@ -10,6 +10,11 @@ assignees: ''
 **Describe the bug**
 
 **To Reproduce**
+Also attach debug dump.
+
+```
+./Binary_Name --gtk-debug=all
+```
 
 **Expected behavior**
 
